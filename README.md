@@ -8,7 +8,7 @@
 ### 📌목차
 
 1. [처음 만드는 안드로이드 애플리케이션](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter1)
-2. 안드로이드와 모델-뷰-컨트롤러
+2. [안드로이드와 모델-뷰-컨트롤러](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter2)
 3. 액티비티 생명주기
 4. UI 상태 유지하기
 5. 안드로이드 앱 디버깅

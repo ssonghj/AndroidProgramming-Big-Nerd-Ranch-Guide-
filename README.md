@@ -12,7 +12,7 @@
 3. [액티비티 생명주기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter3)
 4. [UI 상태 유지하기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter4)
 5. [안드로이드 앱 디버깅](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter5)
-6. 두 번째 액티비티 만들기
+6. [두 번째 액티비티 만들기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter6)
 7. 안드로이드 SDK 버전과 호환성
 8. UI 프래그먼트와 프래그먼트 매니저
 9. RecyclerView로 리스트 보여주기

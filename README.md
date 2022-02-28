@@ -16,7 +16,7 @@
 7. [안드로이드 SDK 버전과 호환성](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter07)
 8. [UI 프래그먼트와 프래그먼트 매니저](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter08)
 9. [ RecyclerView로 리스트 보여주기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter09)
-10. [레이아웃과 위젯으로 사용자 인터페이스 생성하기] (https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter10)
+10. [레이아웃과 위젯으로 사용자 인터페이스 생성하기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter10)
 11. 데이터베이스와 Room 라이브러리
 12. 프래그먼트 간의 이동
 13. 대화상자

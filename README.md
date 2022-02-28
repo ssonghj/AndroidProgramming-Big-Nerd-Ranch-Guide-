@@ -7,16 +7,16 @@
 
 ### 📌목차
 
-1. [처음 만드는 안드로이드 애플리케이션](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter1)
-2. [안드로이드와 모델-뷰-컨트롤러](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter2)
-3. [액티비티 생명주기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter3)
-4. [UI 상태 유지하기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter4)
-5. [안드로이드 앱 디버깅](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter5)
-6. [두 번째 액티비티 만들기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter6)
-7. [안드로이드 SDK 버전과 호환성](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter7)
-8. [UI 프래그먼트와 프래그먼트 매니저](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter8)
-9. [ RecyclerView로 리스트 보여주기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter9)
-10. 레이아웃과 위젯으로 사용자 인터페이스 생성하기
+1. [처음 만드는 안드로이드 애플리케이션](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter01)
+2. [안드로이드와 모델-뷰-컨트롤러](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter02)
+3. [액티비티 생명주기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter03)
+4. [UI 상태 유지하기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter04)
+5. [안드로이드 앱 디버깅](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter05)
+6. [두 번째 액티비티 만들기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter06)
+7. [안드로이드 SDK 버전과 호환성](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter07)
+8. [UI 프래그먼트와 프래그먼트 매니저](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter08)
+9. [ RecyclerView로 리스트 보여주기](https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter09)
+10. [레이아웃과 위젯으로 사용자 인터페이스 생성하기] (https://github.com/ssonghj/AndroidProgramming-Big-Nerd-Ranch-Guide-/tree/master/chapter10)
 11. 데이터베이스와 Room 라이브러리
 12. 프래그먼트 간의 이동
 13. 대화상자
